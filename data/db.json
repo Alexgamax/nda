@@ -1,0 +1,379 @@
+{
+    "aretes": [
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 1
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 2
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 3
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 4
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 5
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 6
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 7
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 8
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 9
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 10
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 11
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 12
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 13
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 14
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 15
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 16
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 17
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 18
+      },
+      {
+        "precio": "$",
+        "descripcion": "Aretes",
+        "id": 19
+      }
+    ],
+    "collares": [
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 1
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 2
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 3
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 4
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 5
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 6
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 7
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 8
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 9
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 10
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 11
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 12
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 13
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 14
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 15
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 16
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 17
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 18
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 19
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 20
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 21
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 22
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 23
+        },
+        {
+            "precio": "$",
+            "descripcion": "Collar",
+            "id": 24
+        }
+    ],
+    "pulseras": [
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 1
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 2
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 3
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 4
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 5
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 6
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 7
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 8
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 9
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 10
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 11
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 12
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 13
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 14
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 15
+        }
+    ],
+    "flores": [
+        {
+            "precio": "$",
+            "descripcion": "Flor",
+            "id": 1
+        },
+        {
+            "precio": "$",
+            "descripcion": "Flor",
+            "id": 2
+        },
+        {
+            "precio": "$",
+            "descripcion": "Flor",
+            "id": 3
+        },
+        {
+            "precio": "$",
+            "descripcion": "Flor",
+            "id": 4
+        },
+        {
+            "precio": "$",
+            "descripcion": "Flor",
+            "id": 5
+        },
+        {
+            "precio": "$",
+            "descripcion": "Flor",
+            "id": 6
+        }
+    ],
+    "anillos": [
+        {
+            "precio": "$",
+            "descripcion": "Anillo",
+            "id": 1
+        },
+        {
+            "precio": "$",
+            "descripcion": "Anillo",
+            "id": 2
+        },
+        {
+            "precio": "$",
+            "descripcion": "Anillo",
+            "id": 3
+        },
+        {
+            "precio": "$",
+            "descripcion": "Anillo",
+            "id": 4
+        }
+    ],
+    "llaveros": [
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 1
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 2
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 3
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 4
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 5
+        }
+    ]
+  }
