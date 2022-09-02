@@ -1,0 +1,29 @@
+{
+    "llaveros": [
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 1
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 2
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 3
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 4
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 5
+        }
+    ]
+}

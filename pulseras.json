@@ -1,0 +1,79 @@
+{
+    "pulseras": [
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 1
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 2
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 3
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 4
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 5
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 6
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 7
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 8
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 9
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 10
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 11
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 12
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 13
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 14
+        },
+        {
+            "precio": "$",
+            "descripcion": "Pulsera",
+            "id": 15
+        }
+    ]
+}

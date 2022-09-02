@@ -1,0 +1,24 @@
+{
+    "anillos": [
+        {
+            "precio": "$",
+            "descripcion": "Anillo",
+            "id": 1
+        },
+        {
+            "precio": "$",
+            "descripcion": "Anillo",
+            "id": 2
+        },
+        {
+            "precio": "$",
+            "descripcion": "Anillo",
+            "id": 3
+        },
+        {
+            "precio": "$",
+            "descripcion": "Anillo",
+            "id": 4
+        }
+    ]
+}
